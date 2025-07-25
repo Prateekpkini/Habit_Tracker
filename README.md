@@ -1,10 +1,6 @@
 # Habit_Tracker
 A simple habit tracker using HTML,css,javascript
 
-Of course. Here is a complete README file for your GitHub repository.
-
------
-
 # ✨ Animated Habit Tracker
 
 A modern, interactive, and visually appealing web-based habit tracker designed to make building good habits a fun and rewarding experience. Built with pure **HTML, CSS, and JavaScript**, this single-page application is lightweight, responsive, and packed with delightful animations.
